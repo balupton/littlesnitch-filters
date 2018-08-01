@@ -1,0 +1,49 @@
+{
+  "description" : "",
+  "name" : "Whitelist (CDN)",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1533106771.463239,
+      "modificationDate" : 1533106771.463239,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "cdnjs.cloudflare.com",
+        "scdn.co",
+        "akamaized.net",
+        "cdn.paddle.com",
+        "images-amazon.com",
+        "gravatar.com",
+        "ytimg.com",
+        "icloud-content.com",
+        "local.adguard.com",
+        "fonts.googleapis.com",
+        "typekit.net",
+        "ghbtns.com",
+        "rackcdn.com",
+        "googleapis.com",
+        "fonts.gstatic.com",
+        "fastly.net",
+        "amazonaws.com",
+        "raw.githubusercontent.com",
+        "azureedge.net",
+        "googlevideo.com",
+        "fiplabcdn.com",
+        "res.cloudinary.com",
+        "com.edgesuite.net",
+        "ggpht.com",
+        "cloudfront.net",
+        "dropboxstatic.com",
+        "msecnd.net",
+        "bugsnag.com",
+        "wp.com",
+        "raygun.io",
+        "bootstrapcdn.com",
+        "gstatic.com",
+        "hockeyapp.net",
+        "fbcdn.net"
+      ]
+    }
+  ]
+}
