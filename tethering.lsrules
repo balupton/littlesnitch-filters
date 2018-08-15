@@ -1,0 +1,88 @@
+{
+  "description" : "",
+  "name" : "Tethering",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1525837506.692754,
+      "modificationDate" : 1525837506.692754,
+      "owner" : "me",
+      "process" : "\/Applications\/Backblaze.app\/Contents\/MacOS\/Backblaze",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1510768781.1229601,
+      "modificationDate" : 1533106480.3521791,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread00",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1510768783.738667,
+      "modificationDate" : 1533106485.069335,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread01",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1510768785.1299391,
+      "modificationDate" : 1533106488.63533,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread02",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1510768787.0788121,
+      "modificationDate" : 1533106493.136662,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread03",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1510768751.853621,
+      "modificationDate" : 1533106506.2521191,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztransmit",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1525842839.395525,
+      "direction" : "incoming",
+      "modificationDate" : 1525842839.395525,
+      "owner" : "me",
+      "process" : "\/Applications\/Photos.app\/Contents\/MacOS\/Photos",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1525842790.974241,
+      "modificationDate" : 1525842790.974241,
+      "owner" : "me",
+      "process" : "\/Applications\/Photos.app\/Contents\/MacOS\/Photos",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1525837431.0150819,
+      "direction" : "incoming",
+      "modificationDate" : 1525837431.0150819,
+      "owner" : "me",
+      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1503436041.0661011,
+      "modificationDate" : 1525844703.4030728,
+      "owner" : "me",
+      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote" : "any"
+    }
+  ]
+}
