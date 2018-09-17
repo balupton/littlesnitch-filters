@@ -35,6 +35,46 @@
       "owner" : "me",
       "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
       "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537060959.417213,
+      "modificationDate" : 1537060959.417213,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread00",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537060959.0794101,
+      "modificationDate" : 1537060959.0794101,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread01",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537060959.20718,
+      "modificationDate" : 1537060959.20718,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread02",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537060959.311223,
+      "modificationDate" : 1537060959.311223,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread03",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537060972.3587699,
+      "modificationDate" : 1537060972.3587699,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztransmit",
+      "remote" : "any"
     }
   ]
 }
