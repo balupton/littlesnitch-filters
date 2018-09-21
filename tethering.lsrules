@@ -3,6 +3,15 @@
   "name": "Tethering",
   "rules": [
     {
+      "action" : "deny",
+      "creationDate" : 1537500698.0929298,
+      "modificationDate" : 1537500698.0929298,
+      "owner" : "me",
+      "priority": "high",
+      "process" : "any",
+      "remote-domains" : "adobe.com"
+    },
+    {
       "action": "deny",
       "creationDate": 1525842839.395525,
       "direction": "incoming",
