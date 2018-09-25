@@ -4,6 +4,42 @@
   "rules": [
     {
       "action" : "deny",
+      "creationDate" : 1537880998.895844,
+      "modificationDate" : 1537882047.3953829,
+      "owner" : "me",
+      "priority": "high",
+      "process" : "any",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537880996.371372,
+      "modificationDate" : 1537882032.855917,
+      "owner" : "me",
+      "priority": "high",
+      "process" : "any",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537880961.900491,
+      "modificationDate" : 1537880961.900491,
+      "owner" : "me",
+      "priority": "high",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537880978.576865,
+      "modificationDate" : 1537880978.576865,
+      "owner" : "me",
+      "priority": "high",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "remote" : "any"
+    }.
+    {
+      "action" : "deny",
       "creationDate" : 1537500698.0929298,
       "modificationDate" : 1537500698.0929298,
       "owner" : "me",
