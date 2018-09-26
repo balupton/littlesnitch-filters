@@ -100,7 +100,8 @@
       "priority": "high",
       "process" : "any",
       "remote-domains" : [
-        "backblaze.com"
+        "backblaze.com",
+        "backblazeb2.com"
       ]
     },
     {
