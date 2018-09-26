@@ -1,20 +1,21 @@
 {
-  "description" : "",
-  "name" : "Blocklist",
-  "rules" : [
+  "description": "",
+  "name": "Blocklist",
+  "rules": [
     {
-      "action" : "deny",
-      "creationDate" : 1527906054.3435621,
-      "modificationDate" : 1537922683.2676229,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : [
-			"platform-lookaside.fbsbx.com",
-			"adservice.google.com.au",
-			"adservice.google.com.sg",
-			"adservice.google.com",
-			"doubleclick.net"
-		]
+      "action": "deny",
+      "creationDate": 1527906054.3435621,
+      "modificationDate": 1537922683.2676229,
+      "owner": "me",
+      "process": "any",
+      "remote-hosts": [
+        "platform-lookaside.fbsbx.com",
+        "adservice.google.com.au",
+        "adservice.google.com.sg",
+        "adservice.google.com",
+        "doubleclick.net",
+        "google-analytics.com"
+      ]
     }
   ]
 }
