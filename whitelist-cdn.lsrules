@@ -1,14 +1,14 @@
 {
-  "description" : "",
-  "name" : "Whitelist (CDN)",
-  "rules" : [
+  "description": "",
+  "name": "Whitelist (CDN)",
+  "rules": [
     {
-      "action" : "allow",
-      "creationDate" : 1533106771.463239,
-      "modificationDate" : 1533106771.463239,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : [
+      "action": "allow",
+      "creationDate": 1533106771.463239,
+      "modificationDate": 1533106771.463239,
+      "owner": "me",
+      "process": "any",
+      "remote-domains": [
         "akamaihd.net",
         "cdnjs.cloudflare.com",
         "scdn.co",

@@ -1,190 +1,190 @@
 {
-  "description" : "",
-  "name" : "Tethering (Disabled)",
-  "rules" : [
+  "description": "",
+  "name": "Tethering (Disabled)",
+  "rules": [
     {
-      "action" : "allow",
-      "creationDate" : 1537253326.1469979,
-      "modificationDate" : 1537253326.1469979,
-      "owner" : "me",
-      "process" : "\/Applications\/Utilities\/Adobe Application Manager\/core\/Adobe Application Manager.app\/Contents\/MacOS\/PDApp",
+      "action": "allow",
+      "creationDate": 1537253326.1469979,
+      "modificationDate": 1537253326.1469979,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Application Manager\/core\/Adobe Application Manager.app\/Contents\/MacOS\/PDApp",
       "remote-domains": [
-			"adobelogin.com",
-			"adobe.com"
-		]
+        "adobelogin.com",
+        "adobe.com"
+      ]
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537253352.8151619,
-      "modificationDate" : 1537253352.8151619,
-      "owner" : "me",
-      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "action": "allow",
+      "creationDate": 1537253352.8151619,
+      "modificationDate": 1537253352.8151619,
+      "owner": "me",
+      "process": "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
       "remote-domains": [
-			"adobeexchange.com",
-			"adobe.io",
-			"macromedia.com",
-			"adobelogin.com",
-			"adobe.com"
-		]
+        "adobeexchange.com",
+        "adobe.io",
+        "macromedia.com",
+        "adobelogin.com",
+        "adobe.com"
+      ]
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537253367.284456,
-      "modificationDate" : 1537253367.284456,
-      "owner" : "me",
-      "process" : "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/Adobe Illustrator",
-      "remote-domains" : [
-			"adobe.io",
-			"adobelogin.com",
-			"adobe.com"
-		]
+      "action": "allow",
+      "creationDate": 1537253367.284456,
+      "modificationDate": 1537253367.284456,
+      "owner": "me",
+      "process": "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/Adobe Illustrator",
+      "remote-domains": [
+        "adobe.io",
+        "adobelogin.com",
+        "adobe.com"
+      ]
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537253358.1643929,
-      "modificationDate" : 1537253358.1643929,
-      "owner" : "me",
-      "process" : "\/Applications\/Utilities\/Adobe Application Manager\/P7\/adobe_licutil.app\/Contents\/MacOS\/adobe_licutil",
-      "remote-domains" : [
-			"adobe.io",
-			"adobe.com"
-		]
+      "action": "allow",
+      "creationDate": 1537253358.1643929,
+      "modificationDate": 1537253358.1643929,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Application Manager\/P7\/adobe_licutil.app\/Contents\/MacOS\/adobe_licutil",
+      "remote-domains": [
+        "adobe.io",
+        "adobe.com"
+      ]
     },
     {
-      "action" : "allow",
-      "creationDate" : 1529730121.725564,
-      "modificationDate" : 1529730121.725564,
-      "owner" : "me",
-      "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AdobeGCClient.app\/Contents\/MacOS\/AdobeGCClient",
-      "remote-domains" : "adobe.com"
+      "action": "allow",
+      "creationDate": 1529730121.725564,
+      "modificationDate": 1529730121.725564,
+      "owner": "me",
+      "process": "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AdobeGCClient.app\/Contents\/MacOS\/AdobeGCClient",
+      "remote-domains": "adobe.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1529449271.669631,
-      "modificationDate" : 1529449271.669631,
-      "owner" : "system",
-      "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AGSService",
-      "remote-domains" : "adobe.com"
+      "action": "allow",
+      "creationDate": 1529449271.669631,
+      "modificationDate": 1529449271.669631,
+      "owner": "system",
+      "process": "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AGSService",
+      "remote-domains": "adobe.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613723.1981211,
-      "modificationDate" : 1526613723.1981211,
-      "owner" : "system",
-      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread00",
-      "remote-domains" : "backblaze.com"
+      "action": "allow",
+      "creationDate": 1526613723.1981211,
+      "modificationDate": 1526613723.1981211,
+      "owner": "system",
+      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread00",
+      "remote-domains": "backblaze.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613729.49892,
-      "modificationDate" : 1526613729.49892,
-      "owner" : "system",
-      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread01",
-      "remote-domains" : "backblaze.com"
+      "action": "allow",
+      "creationDate": 1526613729.49892,
+      "modificationDate": 1526613729.49892,
+      "owner": "system",
+      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread01",
+      "remote-domains": "backblaze.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613733.34708,
-      "modificationDate" : 1526613733.34708,
-      "owner" : "system",
-      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread02",
-      "remote-domains" : "backblaze.com"
+      "action": "allow",
+      "creationDate": 1526613733.34708,
+      "modificationDate": 1526613733.34708,
+      "owner": "system",
+      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread02",
+      "remote-domains": "backblaze.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613735.284723,
-      "modificationDate" : 1526613735.284723,
-      "owner" : "system",
-      "process" : "\/Library\/Backblaze.bzpkg\/bztrans_thread03",
-      "remote-domains" : "backblaze.com"
+      "action": "allow",
+      "creationDate": 1526613735.284723,
+      "modificationDate": 1526613735.284723,
+      "owner": "system",
+      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread03",
+      "remote-domains": "backblaze.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613697.9058719,
-      "modificationDate" : 1526613697.9058719,
-      "owner" : "system",
-      "process" : "\/Library\/Backblaze.bzpkg\/bztransmit",
-      "remote-domains" : "backblazeb2.com"
+      "action": "allow",
+      "creationDate": 1526613697.9058719,
+      "modificationDate": 1526613697.9058719,
+      "owner": "system",
+      "process": "\/Library\/Backblaze.bzpkg\/bztransmit",
+      "remote-domains": "backblazeb2.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613692.0769958,
-      "modificationDate" : 1526613692.0769958,
-      "owner" : "system",
-      "process" : "\/Library\/Backblaze.bzpkg\/bztransmit",
-      "remote-domains" : "backblaze.com"
+      "action": "allow",
+      "creationDate": 1526613692.0769958,
+      "modificationDate": 1526613692.0769958,
+      "owner": "system",
+      "process": "\/Library\/Backblaze.bzpkg\/bztransmit",
+      "remote-domains": "backblaze.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537253343.834162,
-      "modificationDate" : 1537253343.834162,
-      "owner" : "me",
-      "process" : "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
-      "remote-domains" : "adobe.com"
+      "action": "allow",
+      "creationDate": 1537253343.834162,
+      "modificationDate": 1537253343.834162,
+      "owner": "me",
+      "process": "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
+      "remote-domains": "adobe.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537253324.6472502,
-      "modificationDate" : 1537253324.6472502,
-      "owner" : "me",
-      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
-      "remote-domains" : "adobe.com"
+      "action": "allow",
+      "creationDate": 1537253324.6472502,
+      "modificationDate": 1537253324.6472502,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "remote-domains": "adobe.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537253354.609602,
-      "modificationDate" : 1537253354.609602,
-      "owner" : "me",
-      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess.app\/Contents\/libs\/node",
-      "remote-domains" : "adobe.com"
+      "action": "allow",
+      "creationDate": 1537253354.609602,
+      "modificationDate": 1537253354.609602,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess.app\/Contents\/libs\/node",
+      "remote-domains": "adobe.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1537496853.1871819,
-      "modificationDate" : 1537496902.132375,
-      "owner" : "me",
-      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains" : "sentry.io"
+      "action": "allow",
+      "creationDate": 1537496853.1871819,
+      "modificationDate": 1537496902.132375,
+      "owner": "me",
+      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote-domains": "sentry.io"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1536282715.044045,
-      "modificationDate" : 1536282715.044045,
-      "owner" : "me",
-      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains" : "googletagservices.com"
+      "action": "allow",
+      "creationDate": 1536282715.044045,
+      "modificationDate": 1536282715.044045,
+      "owner": "me",
+      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote-domains": "googletagservices.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1535959592.106097,
-      "modificationDate" : 1535959592.106097,
-      "owner" : "me",
-      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains" : "fbsbx.com"
+      "action": "allow",
+      "creationDate": 1535959592.106097,
+      "modificationDate": 1535959592.106097,
+      "owner": "me",
+      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote-domains": "fbsbx.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1535704080.4261379,
-      "modificationDate" : 1535704080.4261379,
-      "owner" : "me",
-      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains" : "gvt1.com"
+      "action": "allow",
+      "creationDate": 1535704080.4261379,
+      "modificationDate": 1535704080.4261379,
+      "owner": "me",
+      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote-domains": "gvt1.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1526613466.3641801,
-      "modificationDate" : 1526613466.3641801,
-      "owner" : "me",
-      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains" : "spotify.com"
+      "action": "allow",
+      "creationDate": 1526613466.3641801,
+      "modificationDate": 1526613466.3641801,
+      "owner": "me",
+      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote-domains": "spotify.com"
     },
     {
-      "action" : "allow",
-      "creationDate" : 1503436095.444277,
-      "modificationDate" : 1503436095.444277,
-      "owner" : "me",
-      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains" : "audioscrobbler.com"
+      "action": "allow",
+      "creationDate": 1503436095.444277,
+      "modificationDate": 1503436095.444277,
+      "owner": "me",
+      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote-domains": "audioscrobbler.com"
     }
   ]
 }
