@@ -4,6 +4,68 @@
   "rules": [
     {
       "action": "allow",
+      "creationDate": 1537253343.834162,
+      "modificationDate": 1537253343.834162,
+      "owner": "me",
+      "process": "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
+      "remote-domains": [
+        "adobe.com",
+        "behance.net",
+        "adobe.io"
+      ]
+    },
+    {
+      "action": "allow",
+      "creationDate": 1537253360.0957789,
+      "modificationDate": 1537253360.0957789,
+      "owner": "me",
+      "process": "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/Frameworks\/CEPHtmlEngine Helper.app\/Contents\/MacOS\/CEPHtmlEngine Helper",
+      "remote-hosts": [
+        "adobe.demdex.net",
+        "adobeinthvateam.tt.omtrdc.net"
+      ]
+    },
+    {
+      "action": "allow",
+      "creationDate": 1537253324.6472502,
+      "modificationDate": 1537253324.6472502,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "remote-domains": [
+        "adobe.com",
+        "bam.nr-data.net",
+        "js-agent.newrelic.com",
+        "adobeoobe.com",
+        "behance.net",
+        "adobeccstatic.com",
+        "adobe.io"
+      ]
+    },
+    {
+      "action": "allow",
+      "creationDate": 1537253354.609602,
+      "modificationDate": 1537253354.609602,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess.app\/Contents\/libs\/node",
+      "remote-domains": [
+        "adobe.com",
+        "adobe.io",
+        "adobelogin.com"
+      ]
+    },
+    {
+      "action": "allow",
+      "creationDate": 1537253392.9123549,
+      "modificationDate": 1537253392.9123549,
+      "owner": "me",
+      "process": "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "remote-domains": [
+        "adobe.io",
+        "adobelogin.com"
+      ]
+    },
+    {
+      "action": "allow",
       "creationDate": 1537253326.1469979,
       "modificationDate": 1537253326.1469979,
       "owner": "me",
@@ -60,11 +122,47 @@
     },
     {
       "action": "allow",
+      "creationDate": 1537253395.3666391,
+      "modificationDate": 1537253395.3666391,
+      "owner": "me",
+      "process": "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "remote-domains": [
+        "typekit.com",
+        "adobesc.com"
+      ]
+    },
+    {
+      "action": "allow",
       "creationDate": 1529449271.669631,
       "modificationDate": 1529449271.669631,
       "owner": "system",
       "process": "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AGSService",
       "remote-domains": "adobe.com"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1510767838.8208299,
+      "modificationDate": 1510767838.8208299,
+      "owner": "me",
+      "process": "\/Applications\/System Preferences.app\/Contents\/MacOS\/System Preferences",
+      "remote-domains": "backblaze.com",
+      "via": "\/Library\/Backblaze.bzpkg\/bztransmit"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1527603448.1711769,
+      "modificationDate": 1527603448.1711769,
+      "owner": "me",
+      "process": "\/Applications\/Backblaze Downloader.app\/Contents\/MacOS\/BackblazeDownloader",
+      "remote-domains": "backblaze.com"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1506483978.8794301,
+      "modificationDate": 1506483978.8794301,
+      "owner": "me",
+      "process": "\/Library\/Backblaze.bzpkg\/bzbmenu.app\/Contents\/MacOS\/bzbmenu",
+      "remote-domains": "backblaze.com"
     },
     {
       "action": "allow",
@@ -113,30 +211,6 @@
       "owner": "system",
       "process": "\/Library\/Backblaze.bzpkg\/bztransmit",
       "remote-domains": "backblaze.com"
-    },
-    {
-      "action": "allow",
-      "creationDate": 1537253343.834162,
-      "modificationDate": 1537253343.834162,
-      "owner": "me",
-      "process": "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
-      "remote-domains": "adobe.com"
-    },
-    {
-      "action": "allow",
-      "creationDate": 1537253324.6472502,
-      "modificationDate": 1537253324.6472502,
-      "owner": "me",
-      "process": "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
-      "remote-domains": "adobe.com"
-    },
-    {
-      "action": "allow",
-      "creationDate": 1537253354.609602,
-      "modificationDate": 1537253354.609602,
-      "owner": "me",
-      "process": "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess.app\/Contents\/libs\/node",
-      "remote-domains": "adobe.com"
     },
     {
       "action": "allow",
