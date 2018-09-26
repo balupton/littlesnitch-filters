@@ -9,6 +9,7 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
+        "akamaihd.net",
         "cdnjs.cloudflare.com",
         "scdn.co",
         "akamaized.net",
