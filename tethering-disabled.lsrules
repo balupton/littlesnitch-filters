@@ -4,35 +4,51 @@
   "rules" : [
     {
       "action" : "allow",
-      "creationDate" : 1537253328.758343,
-      "modificationDate" : 1537253328.758343,
+      "creationDate" : 1537253326.1469979,
+      "modificationDate" : 1537253326.1469979,
       "owner" : "me",
       "process" : "\/Applications\/Utilities\/Adobe Application Manager\/core\/Adobe Application Manager.app\/Contents\/MacOS\/PDApp",
-      "remote-domains" : "adobe.com"
+      "remote-domains": [
+			"adobelogin.com",
+			"adobe.com"
+		]
     },
     {
       "action" : "allow",
-      "creationDate" : 1537253327.5679121,
-      "modificationDate" : 1537253327.5679121,
+      "creationDate" : 1537253352.8151619,
+      "modificationDate" : 1537253352.8151619,
       "owner" : "me",
       "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
-      "remote-domains" : "adobe.com"
+      "remote-domains": [
+			"adobeexchange.com",
+			"adobe.io",
+			"macromedia.com",
+			"adobelogin.com",
+			"adobe.com"
+		]
     },
     {
       "action" : "allow",
-      "creationDate" : 1537253348.004245,
-      "modificationDate" : 1537253348.004245,
+      "creationDate" : 1537253367.284456,
+      "modificationDate" : 1537253367.284456,
       "owner" : "me",
       "process" : "\/Applications\/Adobe Illustrator CC 2018\/Adobe Illustrator.app\/Contents\/MacOS\/Adobe Illustrator",
-      "remote-domains" : "adobe.com"
+      "remote-domains" : [
+			"adobe.io",
+			"adobelogin.com",
+			"adobe.com"
+		]
     },
     {
       "action" : "allow",
-      "creationDate" : 1537253333.679369,
-      "modificationDate" : 1537253333.679369,
+      "creationDate" : 1537253358.1643929,
+      "modificationDate" : 1537253358.1643929,
       "owner" : "me",
       "process" : "\/Applications\/Utilities\/Adobe Application Manager\/P7\/adobe_licutil.app\/Contents\/MacOS\/adobe_licutil",
-      "remote-domains" : "adobe.com"
+      "remote-domains" : [
+			"adobe.io",
+			"adobe.com"
+		]
     },
     {
       "action" : "allow",
