@@ -9,16 +9,13 @@
       "owner" : "me",
       "priority": "high",
       "process" : "any",
-      "remote-domains" : "adobelogin.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1537880996.371372,
-      "modificationDate" : 1537882032.855917,
-      "owner" : "me",
-      "priority": "high",
-      "process" : "any",
-      "remote-domains" : "adobe.io"
+      "remote-domains" : [
+        "adobelogin.com",
+        "adobe.io",
+        "adobe.com",
+        "adobesc.com",
+        "typekit.com"
+      ]
     },
     {
       "action" : "deny",
@@ -38,15 +35,6 @@
       "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
       "remote" : "any"
     }.
-    {
-      "action" : "deny",
-      "creationDate" : 1537500698.0929298,
-      "modificationDate" : 1537500698.0929298,
-      "owner" : "me",
-      "priority": "high",
-      "process" : "any",
-      "remote-domains" : "adobe.com"
-    },
     {
       "action": "deny",
       "creationDate": 1525842839.395525,
@@ -103,6 +91,17 @@
       "priority": "high",
       "process": "\/Applications\/iTunes.app\/Contents\/MacOS\/iTunes",
       "remote": "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1537880998.895844,
+      "modificationDate" : 1537882047.3953829,
+      "owner" : "me",
+      "priority": "high",
+      "process" : "any",
+      "remote-domains" : [
+        "backblaze.com"
+      ]
     },
     {
       "action": "deny",
