@@ -1,6 +1,6 @@
 {
   "description": "",
-  "name": "Tethering (Disabled)",
+  "name": "Untethered",
   "rules": [
     {
       "action": "allow",
