@@ -1,153 +1,153 @@
 {
-  "description": "",
-  "name": "Tethering",
-  "rules": [
-    {
-      "action" : "deny",
-      "creationDate" : 1537880998.895844,
-      "modificationDate" : 1537882047.3953829,
-      "owner" : "me",
-      "priority": "high",
-      "process" : "any",
-      "remote-domains" : [
-        "adobelogin.com",
-        "adobe.io",
-        "adobe.com",
-        "adobesc.com",
-        "typekit.com"
-      ]
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1537880961.900491,
-      "modificationDate" : 1537880961.900491,
-      "owner" : "me",
-      "priority": "high",
-      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1537880978.576865,
-      "modificationDate" : 1537880978.576865,
-      "owner" : "me",
-      "priority": "high",
-      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
-      "remote" : "any"
-    }.
-    {
-      "action": "deny",
-      "creationDate": 1525842839.395525,
-      "direction": "incoming",
-      "modificationDate": 1525842839.395525,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Photos.app\/Contents\/MacOS\/Photos",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1525842790.974241,
-      "modificationDate": 1525842790.974241,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Photos.app\/Contents\/MacOS\/Photos",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1525837431.0150819,
-      "direction": "incoming",
-      "modificationDate": 1525837431.0150819,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1503436041.0661011,
-      "modificationDate": 1525844703.4030728,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537322894.6499329,
-      "direction": "incoming",
-      "modificationDate": 1537322980.288501,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/iTunes.app\/Contents\/MacOS\/iTunes",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537322852.394017,
-      "modificationDate": 1537322980.2893481,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/iTunes.app\/Contents\/MacOS\/iTunes",
-      "remote": "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1537880998.895844,
-      "modificationDate" : 1537882047.3953829,
-      "owner" : "me",
-      "priority": "high",
-      "process" : "any",
-      "remote-domains" : [
-        "backblaze.com",
-        "backblazeb2.com"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537060959.417213,
-      "modificationDate": 1537060959.417213,
-      "owner": "system",
-      "priority": "high",
-      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread00",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537060959.0794101,
-      "modificationDate": 1537060959.0794101,
-      "owner": "system",
-      "priority": "high",
-      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread01",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537060959.20718,
-      "modificationDate": 1537060959.20718,
-      "owner": "system",
-      "priority": "high",
-      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread02",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537060959.311223,
-      "modificationDate": 1537060959.311223,
-      "owner": "system",
-      "priority": "high",
-      "process": "\/Library\/Backblaze.bzpkg\/bztrans_thread03",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537060972.3587699,
-      "modificationDate": 1537060972.3587699,
-      "owner": "system",
-      "priority": "high",
-      "process": "\/Library\/Backblaze.bzpkg\/bztransmit",
-      "remote": "any"
-    }
-  ]
+	"description": "",
+	"name": "Tethering",
+	"rules": [
+		{
+			"action": "deny",
+			"creationDate": 1537880998.895844,
+			"modificationDate": 1537882047.3953829,
+			"owner": "me",
+			"priority": "high",
+			"process": "any",
+			"remote-domains": [
+				"adobelogin.com",
+				"adobe.io",
+				"adobe.com",
+				"adobesc.com",
+				"typekit.com"
+			]
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537880961.900491,
+			"modificationDate": 1537880961.900491,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537880978.576865,
+			"modificationDate": 1537880978.576865,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1525842839.395525,
+			"direction": "incoming",
+			"modificationDate": 1525842839.395525,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/Photos.app\/Contents\/MacOS\/Photos",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1525842790.974241,
+			"modificationDate": 1525842790.974241,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/Photos.app\/Contents\/MacOS\/Photos",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1525837431.0150819,
+			"direction": "incoming",
+			"modificationDate": 1525837431.0150819,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1503436041.0661011,
+			"modificationDate": 1525844703.4030728,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537322894.6499329,
+			"direction": "incoming",
+			"modificationDate": 1537322980.288501,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/iTunes.app\/Contents\/MacOS\/iTunes",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537322852.394017,
+			"modificationDate": 1537322980.2893481,
+			"owner": "me",
+			"priority": "high",
+			"process": "\/Applications\/iTunes.app\/Contents\/MacOS\/iTunes",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537880998.895844,
+			"modificationDate": 1537882047.3953829,
+			"owner": "me",
+			"priority": "high",
+			"process": "any",
+			"remote-domains": [
+				"backblaze.com",
+				"backblazeb2.com"
+			]
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537060959.417213,
+			"modificationDate": 1537060959.417213,
+			"owner": "system",
+			"priority": "high",
+			"process": "\/Library\/Backblaze.bzpkg\/bztrans_thread00",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537060959.0794101,
+			"modificationDate": 1537060959.0794101,
+			"owner": "system",
+			"priority": "high",
+			"process": "\/Library\/Backblaze.bzpkg\/bztrans_thread01",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537060959.20718,
+			"modificationDate": 1537060959.20718,
+			"owner": "system",
+			"priority": "high",
+			"process": "\/Library\/Backblaze.bzpkg\/bztrans_thread02",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537060959.311223,
+			"modificationDate": 1537060959.311223,
+			"owner": "system",
+			"priority": "high",
+			"process": "\/Library\/Backblaze.bzpkg\/bztrans_thread03",
+			"remote": "any"
+		},
+		{
+			"action": "deny",
+			"creationDate": 1537060972.3587699,
+			"modificationDate": 1537060972.3587699,
+			"owner": "system",
+			"priority": "high",
+			"process": "\/Library\/Backblaze.bzpkg\/bztransmit",
+			"remote": "any"
+		}
+	]
 }
