@@ -3,6 +3,25 @@
   "name": "Whitelist (DNS)",
   "rules": [
     {
+      "action" : "allow",
+      "creationDate" : 1538707539.009645,
+      "direction" : "incoming",
+      "modificationDate" : 1538707545.318821,
+      "owner" : "system",
+      "priority" : "high",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1538707338.911526,
+      "modificationDate" : 1538707351.6828852,
+      "owner" : "system",
+      "priority" : "high",
+      "process" : "\/usr\/sbin\/mDNSResponder",
+      "remote" : "any"
+    },
+    {
       "action": "allow",
       "codeSignature": "ignore",
       "creationDate": 1529428433.401233,
