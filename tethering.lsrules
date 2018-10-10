@@ -3,49 +3,16 @@
   "name": "Tethering",
   "rules": [
     {
-      "action" : "deny",
-      "creationDate" : 1539148073.168396,
-      "modificationDate" : 1539148073.168396,
-      "owner" : "me",
+      "action": "deny",
+      "creationDate": 1539148073.168396,
+      "modificationDate": 1539148073.168396,
+      "owner": "me",
       "priority": "high",
-      "process" : "\/usr\/libexec\/nsurlsessiond",
-      "remote-domains" : [
+      "process": "\/usr\/libexec\/nsurlsessiond",
+      "remote-domains": [
         "apple.com",
         "icloud-content.com"
       ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537880998.895844,
-      "modificationDate": 1537882047.3953829,
-      "owner": "me",
-      "priority": "high",
-      "process": "any",
-      "remote-domains": [
-        "adobelogin.com",
-        "adobe.io",
-        "adobe.com",
-        "adobesc.com",
-        "typekit.com"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537880961.900491,
-      "modificationDate": 1537880961.900491,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1537880978.576865,
-      "modificationDate": 1537880978.576865,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
-      "remote": "any"
     },
     {
       "action": "deny",
