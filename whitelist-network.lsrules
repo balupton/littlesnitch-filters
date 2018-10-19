@@ -1,0 +1,18 @@
+{
+  "description": "",
+  "name": "Whitelist (Network)",
+  "rules": [
+    {
+      "action" : "allow",
+      "creationDate" : 1510765796.6783481,
+      "direction" : "incoming",
+      "modificationDate" : 1510765796.6783481,
+      "owner" : "system",
+      "priority" : "high",
+      "ports" : "68",
+      "process" : "\/usr\/libexec\/configd",
+      "protocol" : "udp",
+      "remote" : "any"
+    }
+  ]
+}
