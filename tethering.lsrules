@@ -35,25 +35,6 @@
     },
     {
       "action": "deny",
-      "creationDate": 1525837431.0150819,
-      "direction": "incoming",
-      "modificationDate": 1525837431.0150819,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
-      "creationDate": 1503436041.0661011,
-      "modificationDate": 1525844703.4030728,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote": "any"
-    },
-    {
-      "action": "deny",
       "creationDate": 1537322894.6499329,
       "direction": "incoming",
       "modificationDate": 1537322980.288501,
