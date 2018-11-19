@@ -69,21 +69,6 @@
         "backblazeb2.com",
         "backblaze.com"
       ]
-    },
-    {
-      "action": "allow",
-      "creationDate": 1537496853.1871819,
-      "modificationDate": 1537496902.132375,
-      "owner": "me",
-      "process": "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
-      "remote-domains": [
-        "sentry.io",
-        "googletagservices.com",
-        "fbsbx.com",
-        "gvt1.com",
-        "spotify.com",
-        "audioscrobbler.com"
-      ]
     }
   ]
 }
