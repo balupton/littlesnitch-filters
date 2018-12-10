@@ -4,18 +4,6 @@
   "rules": [
     {
       "action": "deny",
-      "creationDate": 1539148073.168396,
-      "modificationDate": 1539148073.168396,
-      "owner": "me",
-      "priority": "high",
-      "process": "\/usr\/libexec\/nsurlsessiond",
-      "remote-domains": [
-        "apple.com",
-        "icloud-content.com"
-      ]
-    },
-    {
-      "action": "deny",
       "creationDate": 1525842839.395525,
       "direction": "incoming",
       "modificationDate": 1525842839.395525,
