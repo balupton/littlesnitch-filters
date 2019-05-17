@@ -14,7 +14,7 @@
 		{
 			"action": "allow",
 			"creationDate": 1529428433.401233,
-			"modificationDate": 1529429701.422411,
+      "modificationDate": 1557839968.222259,
 			"notes": "DNS Servers with DNSCrypt executable permissions (running as root without code signature)",
 			"owner": "system",
 			"priority": "high",
