@@ -9,6 +9,7 @@
 			"owner": "me",
 			"process": "any",
       "validates": "none",
+			"codeSignature": "ignore",
 			"remote-domains": [
 				"akamaihd.net",
 				"akamaized.net",
