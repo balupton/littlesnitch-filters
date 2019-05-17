@@ -8,6 +8,7 @@
 			"modificationDate": 1533106771.463239,
 			"owner": "me",
 			"process": "any",
+      "validates": "none",
 			"remote-domains": [
 				"akamaihd.net",
 				"akamaized.net",
